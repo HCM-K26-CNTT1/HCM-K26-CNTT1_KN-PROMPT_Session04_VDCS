@@ -55,17 +55,6 @@ Trình bày ngắn gọn, rõ ràng bằng tiếng Việt.
 Nếu thiếu dữ liệu, không được tự suy đoán.
 ```
 
-## **3. Giải thích Prompt theo mô hình CREATE**
-
-| Thành phần   | Nội dung áp dụng                                                            |
-| ------------ | --------------------------------------------------------------------------- |
-| C – Context  | AI đóng vai trò trợ lý quản lý đơn hàng online.                             |
-| R – Role     | Trợ lý AI tiếp nhận và xử lý đơn hàng.                                      |
-| E – Explicit | Quy định rõ 3 bước kiểm tra, tính toán và tổng hợp.                         |
-| A – Action   | Kiểm tra dữ liệu, tính tiền và phân loại đơn hàng.                          |
-| T – Tone     | Ngắn gọn, rõ ràng, chuyên nghiệp.                                           |
-| E – Extras   | Không tự suy đoán dữ liệu thiếu, phải báo lỗi và giữ kết quả giữa các bước. |
-
 ## **4. Kết quả chạy thử**
 
 **Dữ liệu đầu vào:**
